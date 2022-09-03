@@ -1,6 +1,7 @@
 # LXD-GPU
 sch:
 - https://www.google.com/search?q=lxd+gpu ,
+- https://www.google.com/search?q=lxd+gpu+passthrough ,
 - https://www.google.com/search?q=Stephane+Graber+LXD+gpu
 
 wiki: https://wiki.archlinux.org/title/LXD

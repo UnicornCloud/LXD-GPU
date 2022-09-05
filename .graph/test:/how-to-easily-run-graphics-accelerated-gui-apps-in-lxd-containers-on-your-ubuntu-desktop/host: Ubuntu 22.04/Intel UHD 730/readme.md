@@ -1,18 +1,23 @@
 # how-to-easily-run-graphics-accelerated-gui-apps-in-lxd-containers-on-your-ubuntu-desktop
 description: This guide works! Follow it exactly.
 
-works: true
-
-guide:
-- https://blog.simos.info/how-to-easily-run-graphics-accelerated-gui-apps-in-lxd-containers-on-your-ubuntu-desktop/
+works: partial
 
 host os: Ubuntu 22.04
+
+gpu.hw: Intel UHD 730
+cpu.hw: Intel Core i3-12100
 
 lxd.install type: snap
 
 lxd.version: 5.5
 
 guest: 'ubuntu:18.04'
+
+renderer: llvmpipe
+
+guide:
+- https://blog.simos.info/how-to-easily-run-graphics-accelerated-gui-apps-in-lxd-containers-on-your-ubuntu-desktop/
 
 date: 9/05/2022
 

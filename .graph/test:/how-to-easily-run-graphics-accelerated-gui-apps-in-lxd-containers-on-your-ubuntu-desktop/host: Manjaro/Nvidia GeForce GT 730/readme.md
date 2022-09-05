@@ -4,11 +4,11 @@ description: This guide works! Follow it exactly.
 gui app.works: true
 graphics acceleration.works: false
 
-host os: Ubuntu 22.04
+host os: Manjaro
 
-integrated graphics: true
-gpu.hw: Intel UHD 730
-cpu.hw: Intel Core i3-12100
+integrated graphics: false
+gpu.hw: Nvidia GeForce GT 730
+cpu.hw: Intel Core i7-6700
 
 lxd.install type: snap
 
@@ -16,7 +16,7 @@ lxd.version: 5.5
 
 guest: 'ubuntu:18.04'
 
-glxinfo.renderer: llvmpipe
+glxinfo.renderer: Nouveaux
 
 guide:
 - https://blog.simos.info/how-to-easily-run-graphics-accelerated-gui-apps-in-lxd-containers-on-your-ubuntu-desktop/

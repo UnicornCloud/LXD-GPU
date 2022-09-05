@@ -1,8 +1,9 @@
 # LXD-GPU
 sch:
-- https://www.google.com/search?q=lxd+gpu ,
-- https://www.google.com/search?q=lxd+gpu+passthrough ,
-- https://www.google.com/search?q=Stephane+Graber+LXD+gpu ,
+- https://www.google.com/search?q=lxd+gpu
+- https://www.google.com/search?q=lxd+gpu+passthrough
+- https://www.google.com/search?q=arch+linux+lxd+gpu
+- https://www.google.com/search?q=Stephane+Graber+LXD+gpu
 - https://www.google.com/search?q=How+to+run+graphics-accelerated+GUI+apps+in+LXD+containers
 
 # wiki:
